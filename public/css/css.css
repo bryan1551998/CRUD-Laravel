@@ -1,0 +1,22 @@
+#fecha,
+#title {
+    color: white;
+}
+
+.head,
+.footer {
+    height: 50px;
+}
+
+.error {
+    color: red
+}
+
+#titulo {
+    background-color: rgb(61, 136, 235);
+}
+
+#tablaTitle {
+    background-color: rgb(152, 89, 212);
+    color: white !important;
+}
